@@ -1,7 +1,7 @@
 # Michael Jefferson — Applied AI & Full-Stack Product Engineer
 
 **TypeScript · Next.js (App Router) · React · Vite · Node.js (ESM) · Gemini / Vertex AI · WebRTC (LiveKit) · Playwright Automation**  
-📍 Vacaville, CA (Open to 100% US Remote & San Francisco / East Bay Hybrid)
+📍 Vacaville, CA (Open to 100% US Remote & San Francisco / East Bay Hybrid) · 🌐 **[Live Portfolio & Resumes](https://michael-jefferson-portfolio.vercel.app)**
 
 ---
 
